@@ -7,6 +7,7 @@ Hello, Connections!
 Thrilled to share that I have developed an Electric Vehicle Analysis Dashboard built in Tableau, providing powerful visualizations and actionable insights into EV adoption, trends, and performance.
 
 Key Features & Visualizations:
+
 1️⃣ Total Vehicles by Model Year (2010 Onwards)
 Visualization: Line/Area Chart
 Insight: Track the growth of EV adoption and distribution patterns over the years.
