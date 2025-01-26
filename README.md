@@ -30,3 +30,6 @@ Insight: Discover the most popular EV models and consumer preferences.
 
 Why This Dashboard Matters:
 This Tableau dashboard empowers stakeholders, policymakers, and EV enthusiasts to explore data-driven insights for tracking trends, optimizing strategies, and supporting the growth of clean energy transportation.
+
+
+![Ev img](https://github.com/user-attachments/assets/6f117df6-38c2-4580-a4b6-bec40c471aa0)
